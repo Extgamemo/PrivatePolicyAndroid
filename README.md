@@ -51,7 +51,7 @@ The third-party partners that “Catzzilla” will share the data with are:
 • GameAnalytics
 • Facebook Analytics
 • Adjust
-• Voodoo
+
 Data deletion requests
 To delete user data collected by “Catzzilla”, please reach out to “provided contact email”.
 If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
@@ -64,9 +64,7 @@ privacy policy: https://www.facebook.com/policy.php
 • Adjust:
 email: privacy@adjust.com 
 privacy policy: https://www.adjust.com/terms/privacy-policy/ 
-• Voodoo:
-Voodoo does not collect any of your personal data and only provides an SDK package to retrieve the data collected by the above-mentioned partners. You can still contact them to request the deletion of their access to the partners’ interfaces.
-email: dpo@voodoo.io
+
 
 8. Changes to this privacy policy
 The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
