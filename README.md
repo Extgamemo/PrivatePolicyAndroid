@@ -2,7 +2,7 @@ PRIVACY POLICY
 Last Updated on August 30, 2024
 This Application collects some Personal Data from its Users. Users may be subject to different protection standards and broader standards may, therefore, apply to some. In order to learn more about the protection criteria, Users can refer to the applicability section.
 1. Owner and Data Controller
-Owner contact email: extgamemo@gmail.com
+Owner contact email: Catzzilla@gmail.com
 2. Types of Data collected
 Among the types of Personal Data that this Application collects, there are chosen currency pairs, favorite currencies, currency amounts to be converted. Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
 3. Mode and place of processing the Data
@@ -41,19 +41,19 @@ In particular, Users have the right to do the following:
 Details about the right to object to processing Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection. Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification.
 How to exercise these rights Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 6. Request user data deletion
-When you install and use “Extgamemo” mobile applications, we can collect and process some of your data for different legitimate purposes.
+When you install and use “Catzzilla” mobile applications, we can collect and process some of your data for different legitimate purposes.
 You will find below explanations regarding the reasons why we may collect data. 
 7. Why is data collected?
-“Extgamemo” and its third-party partners collect data: 
+“Catzzilla” and its third-party partners collect data: 
 • To provide you with the services you asked for
 • To run analytics and understand how users interact with our product and services to improve them continuously
-The third-party partners that “Extgamemo” will share the data with are: 
+The third-party partners that “Catzzilla” will share the data with are: 
 • GameAnalytics
 • Facebook Analytics
 • Adjust
 • Voodoo
 Data deletion requests
-To delete user data collected by “Extgamemo”, please reach out to “provided contact email”.
+To delete user data collected by “Catzzilla”, please reach out to “provided contact email”.
 If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
 • GameAnalytics:
 email: privacy@gameanalytics.com 
