@@ -1,8 +1,8 @@
 PRIVACY POLICY
-Last Updated on August 30, 2024
+Last Updated on December 09, 2025
 This Application collects some Personal Data from its Users. Users may be subject to different protection standards and broader standards may, therefore, apply to some. In order to learn more about the protection criteria, Users can refer to the applicability section.
 1. Owner and Data Controller
-Owner contact email: Catzzilla@gmail.com
+Owner contact email: extgamemo@gmail.com
 2. Types of Data collected
 Among the types of Personal Data that this Application collects, there are chosen currency pairs, favorite currencies, currency amounts to be converted. Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
 3. Mode and place of processing the Data
